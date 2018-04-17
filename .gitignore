@@ -1,0 +1,8 @@
+/config/app.yml
+.ruby-version
+/.bundle
+*.swp
+*.bkp
+/tmp/*
+!/log/.keep
+!/tmp/.keep

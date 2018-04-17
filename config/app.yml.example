@@ -1,0 +1,11 @@
+---
+redis: "redis://localhost:6379/15"
+maxkeylen: 32
+expire: 7200
+
+
+# This is and example configuration file for countdown rack app.
+# Rename as app.yml and edit.
+# All values can be averridden by ENV vars with name CDWN_CapitalizedConfigKey
+# e.g. maxkeylen key will be overridden by CDWN_MAXKEYLEN
+
